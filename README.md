@@ -78,6 +78,7 @@ Design tools for covers, mockups and promo images.
 
 - [Affinity](https://www.affinity.studio/) `free` - Design apps for covers and interior graphics. **Price:** Free for individuals (per their page).
 - [BookBrush](https://bookbrush.com/pricing/) `freemium` - Makes book mockups, ads and social images. **Price:** Free plan exists. Paid plans listed from $8.25/month billed yearly ($99).
+- [CoverNice (by the maintainer)](https://covernice.com/) `freemium` - Cover studio for KDP paperbacks: spine width from page count and paper stock, then a 300 dpi print-ready wrap PDF. **Price:** Free spine-width calculator, no account. Credits from $5 for 100, 4 credits per cover, never expire (per their pricing page).
 
 ## Distribution, print and ISBNs
 
