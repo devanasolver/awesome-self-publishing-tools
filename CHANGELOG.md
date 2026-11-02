@@ -3,6 +3,7 @@
 ## Unreleased
 
 - New banner with logos, CTA, badges and follow buttons.
+- Add CoverNice (cover studio for KDP paperbacks) to Covers and graphics.
 
 ## 2026-10-17
 
