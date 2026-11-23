@@ -331,5 +331,23 @@
     "price_note": "Free and open source (MIT). Check the voice model licence before selling audio.",
     "description": "Makes audiobooks from EPUB files with a local text-to-speech model.",
     "price_checked": "2026-10-17"
+  },
+  {
+    "category": "edit",
+    "name": "Revise AI (by the author)",
+    "url": "https://www.revise.net/",
+    "price": "freemium",
+    "price_note": "Free plan is 2,000 words per month, no credit card required. Pro is $16/month or $8/month billed yearly; Ultra is $32/month or $16/month yearly, per their pricing page.",
+    "description": "Line editor that shows grammar, clarity, and style suggestions as tracked changes you accept or reject.",
+    "price_checked": "2026-11-23"
   }
+
+
+
+
+
+
+
+
+
 ]
