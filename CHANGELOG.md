@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Added Revise AI to Editing and proofreading.
+
 - New banner with logos, CTA, badges and follow buttons.
 
 ## 2026-10-17
