@@ -49,6 +49,7 @@ Where the manuscript gets written.
 
 - [Atticus](https://www.atticus.io/) `paid` - Writing and book formatting in one app, for ebooks and print. **Price:** $147 one-time, includes future updates (per their page).
 - [Dabble](https://www.dabblewriter.com/pricing) `paid` - Novel-writing app with plot grid, goals and cloud sync. **Price:** $19/month (Writer) or $29/month (Author); $699 lifetime Author access. 14-day free trial.
+- [Literess (by the author)](https://literess.com/pricing/) `freemium` - Writing companion for long manuscripts that reads the whole book, comments in the margin and suggests edits the writer accepts or rejects. **Price:** Free plan with 10,000 credits a month and no card; paid plans are €10/$11, €20/$23 and €40/$46 a month (per their pricing page).
 - [Novelcrafter](https://www.novelcrafter.com/pricing) `paid` - Planning and writing tool for novelists, with optional AI features. **Price:** No free plan. 21-day free trial. See page for plan prices.
 - [Reedsy Studio](https://reedsy.com/studio) `freemium` - Free online book editor that exports ebook and print files. **Price:** Core writing and formatting are free. Premium plans start at $4.99/month for extras like outlining and writing stats.
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview) `paid` - Long-form writing app with a binder, corkboard and compile tool for books. **Price:** $59.99 for macOS or Windows (Literature & Latte pricing page). One licence per platform.
