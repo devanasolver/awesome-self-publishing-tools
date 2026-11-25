@@ -54,6 +54,15 @@
     "price_checked": "2026-10-17"
   },
   {
+    "category": "write",
+    "name": "Literess (by the author)",
+    "url": "https://literess.com/pricing/",
+    "price": "freemium",
+    "price_note": "Free plan with 10,000 credits a month and no card; paid plans are €10/$11, €20/$23 and €40/$46 a month (per their pricing page).",
+    "description": "Writing companion for long manuscripts that reads the whole book, comments in the margin and suggests edits the writer accepts or rejects.",
+    "price_checked": "2026-11-25"
+  },
+  {
     "category": "edit",
     "name": "ProWritingAid",
     "url": "https://prowritingaid.com/pricing",
